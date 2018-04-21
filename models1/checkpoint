@@ -1,0 +1,3 @@
+model_checkpoint_path: "/output/comp_epoch_model.ckpt"
+all_model_checkpoint_paths: "/output/500_epoch_model.ckpt"
+all_model_checkpoint_paths: "/output/comp_epoch_model.ckpt"
