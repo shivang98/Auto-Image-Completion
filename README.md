@@ -12,3 +12,7 @@ Tool designers and photographers can use to fill in unwanted or missing parts of
     TensorFlow
     Pandas
     Numpy
+
+## To-Do
+1. Add screenshots of the work.
+2. Train the model on actual human photographs.
