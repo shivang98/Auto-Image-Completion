@@ -1,5 +1,5 @@
 # Auto-Image-Completion
-Tool designers and photographers can use to fill in unwanted or missing parts of images.
+Tool designers and photographers can use it to fill in unwanted or missing parts of images.
 
 1. Interpreting images as samples from a probability distribution.
 
@@ -16,3 +16,6 @@ Tool designers and photographers can use to fill in unwanted or missing parts of
 ## To-Do
 1. Add screenshots of the work.
 2. Train the model on actual human photographs.
+
+## Future Scope
+Make it auto complete any image(i.e., living as well as non-living)
